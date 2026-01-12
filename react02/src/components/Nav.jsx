@@ -11,7 +11,7 @@ export default function Nav() {
         <NavLink to='/Products'>Products</NavLink>
         <NavLink to='/Contac'>Contac</NavLink>   
         <NavLink to='/ProductDetail'>ProductDetail</NavLink> 
-        
+       
     </div>
   )
 }
